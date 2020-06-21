@@ -1,0 +1,31 @@
+{
+  "name": "ajs-hw-1_2",
+  "version": "1.0.0",
+  "description": "'task_2'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnVasilyeva/ajs-hw-1_2.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "AnnV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnnVasilyeva/ajs-hw-1_2/issues"
+  },
+  "homepage": "https://github.com/AnnVasilyeva/ajs-hw-1_2#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.10.3",
+    "@babel/core": "^7.10.3",
+    "@babel/preset-env": "^7.10.3"
+  },
+  "dependencies": {
+    "core-js": "^3.6.5"
+  }
+}
